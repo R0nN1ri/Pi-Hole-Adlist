@@ -1,1 +1,2 @@
-# Pi-Hole-Adlist
+# Pi Hole Adlist
+Pi hole adlist
